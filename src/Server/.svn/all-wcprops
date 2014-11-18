@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/6.005/sp12/!svn/ver/39932/groups/guichat/trevino-kwadia-tfalase/src/Server
+END
+ClientHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/6.005/sp12/!svn/ver/39932/groups/guichat/trevino-kwadia-tfalase/src/Server/ClientHandler.java
+END
+ServerModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/6.005/sp12/!svn/ver/39357/groups/guichat/trevino-kwadia-tfalase/src/Server/ServerModel.java
+END
+ClientToServerProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/6.005/sp12/!svn/ver/37603/groups/guichat/trevino-kwadia-tfalase/src/Server/ClientToServerProtocol.java
+END
+ServerToClientProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/6.005/sp12/!svn/ver/39281/groups/guichat/trevino-kwadia-tfalase/src/Server/ServerToClientProtocol.java
+END

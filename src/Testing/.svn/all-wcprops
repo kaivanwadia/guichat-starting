@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/6.005/sp12/!svn/ver/40063/groups/guichat/trevino-kwadia-tfalase/src/Testing
+END
+ChatRoomTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/6.005/sp12/!svn/ver/39357/groups/guichat/trevino-kwadia-tfalase/src/Testing/ChatRoomTests.java
+END
+EndChatTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/6.005/sp12/!svn/ver/40063/groups/guichat/trevino-kwadia-tfalase/src/Testing/EndChatTests.java
+END
+ClientToServerProtocolTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/6.005/sp12/!svn/ver/39281/groups/guichat/trevino-kwadia-tfalase/src/Testing/ClientToServerProtocolTest.java
+END
+ServerToClientProtocolTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/6.005/sp12/!svn/ver/39281/groups/guichat/trevino-kwadia-tfalase/src/Testing/ServerToClientProtocolTest.java
+END
+ClientHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/6.005/sp12/!svn/ver/40063/groups/guichat/trevino-kwadia-tfalase/src/Testing/ClientHandlerTests.java
+END
